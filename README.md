@@ -1,4 +1,4 @@
-# Portfolio
+# Aalijah's Portfolio
 
 I am a student in Computer Science and this is intended to display my work experience and contributions.
 
